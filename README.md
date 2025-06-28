@@ -53,12 +53,6 @@
     <li>Custom classes for different cell types (empty, bomb, number, flag)</li>
     <li>Modular and reusable code structure</li>
   </ul>
-
-  <hr />
-
-  <h2>📄 License</h2>
-  <p>This project is licensed under the <strong>MIT License</strong>.</p>
-
   <hr />
   
   <p>Thank you for checking out this project! 🚀</p>
